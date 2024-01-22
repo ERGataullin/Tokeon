@@ -1,6 +1,6 @@
 {
-    "name": "tokeon",
-    "short_name": "tokeon",
+    "name": "Справочник работников компании",
+    "short_name": "Справочник работников",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

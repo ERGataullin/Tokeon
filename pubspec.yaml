@@ -11,6 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+  elementary: ^3.0.0
+  flutter_secure_storage: ^9.0.0
+  hive: ^2.2.3
+  provider: ^6.1.1
+  uuid: ^4.3.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
